@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Plif! AI Photo Editor",
+  "description": "Un editor de fotos moderno y potenciado por IA. Desata tu creatividad con herramientas potentes, aplica filtros hermosos, añade texto y stickers generados por IA, y mejora tus fotos con un toque de magia.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
